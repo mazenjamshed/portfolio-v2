@@ -31,24 +31,21 @@ const Project = () => {
             <ProjectBox
               img='webp/alexxandria-2.webp'
               id={2}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
+              desc='Details will be uploaded soon..'
             />
           </div>
           <div className='project__item'>
             <ProjectBox
               img='webp/adeola-2.webp'
               id={3}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
+              desc='Details will be uploaded soon..'
             />
           </div>
           <div className='project__item'>
             <ProjectBox
               img='webp/pixelchef-2.webp'
               id={4}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
+              desc='Details will be uploaded soon..'
             />
           </div>
         </div>
@@ -57,33 +54,25 @@ const Project = () => {
             <ProjectBox
               img='webp/adeola-2.webp'
               id={5}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
+              desc='Details will be uploaded soon..'
             />
           </div>
           <div className='project__item'>
             <ProjectBox
               img='webp/safarika-2.webp'
               id={6}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
+              desc='Details will be uploaded soon..'
             />
           </div>
           <div className='project__item'>
             <ProjectBox
               img='webp/pixelchef-2.webp'
               id={7}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
+              desc='Details will be uploaded soon..'
             />
           </div>
           <div className='project__item'>
-            <ProjectBox
-              img=''
-              id={8}
-              desc='  i have made this blah blah blah..... i have made this blah blah
-            blah..... i have made this blah blah blah.....'
-            />
+            <ProjectBox img='' id={8} desc='Details will be uploaded soon..' />
           </div>
         </div>
       </div>
